@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.manuelcuya.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["04:8A:6A:35:A2:8A:0A:FF:A8:4B:3B:BE:5A:7A:6A:83:52:74:5D:4A:C2:12:88:47:08:92:27:C1:88:B0:04:37"]
+    }
+  }]
